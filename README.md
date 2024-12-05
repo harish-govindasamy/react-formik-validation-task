@@ -12,7 +12,7 @@ A React application for managing book and author details using Formik for form v
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/harish-govindasamy/react-formik-validation-task.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -54,7 +54,7 @@ src/
 ```
 
 ```
-
+Demo live link - https://react-formik-validation-task-library.netlify.app/
 ```
 
 # react-formik-validation-task
