@@ -4,6 +4,10 @@
 
 A React application for managing book and author details using Formik for form validation.
 
+## Screenshot
+
+![Screenshot](./public/Screenshot%202024-12-05%20202628.png)
+
 ## Installation
 
 1. Clone the repository:
@@ -52,4 +56,5 @@ src/
 ```
 
 ```
+
 # react-formik-validation-task
